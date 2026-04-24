@@ -82,8 +82,8 @@ class SistemDonasi {
 // =======================
 fun main() {
 
-    val donatur = Donatur(1, "Rendy", 100000.0)
-    val kampanye = Kampanye(1, "Bantu Mahasiswa", 50000.0, 150000.0)
+    val donatur = Donatur(1, "ALI", 100000.0)
+    val kampanye = Kampanye(1, "Bantu Mahasiswa", 70000.0, 150000.0)
     val pengelola = Pengelola(1, "FSTI")
 
     val sistem = SistemDonasi()
